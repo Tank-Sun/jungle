@@ -2,6 +2,13 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+Through building this app, I practiced my skill of adding features in MVC pattern with Ruby on Rails, my ways of interacting with data base through Active Record, and writing various types of test abilities (including RSpec and Cypress on Rails).
+
+
+## Screenshots
+
+
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
@@ -13,9 +20,7 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
-## Database
 
-If Rails is complaining about authentication to the database, uncomment the user and password fields from `config/database.yml` in the development and test sections, and replace if necessary the user and password `development` to an existing database user.
 
 ## Stripe Testing
 
@@ -29,3 +34,4 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+- bcrypt
