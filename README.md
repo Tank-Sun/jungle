@@ -7,6 +7,11 @@ Through building this app, I practiced my skill of adding features in MVC patter
 
 ## Screenshots
 
+!["the defult page when the app firstly loaded"](https://github.com/Tank-Sun/jungle/blob/master/docs/home-page.png?raw=true)
+!["the my cart page when the <pay with card> button is clicked"](https://github.com/Tank-Sun/jungle/blob/master/docs/my-cart.png?raw=true)
+!["the products page of admin"](https://github.com/Tank-Sun/jungle/blob/master/docs/admin-products.png?raw=true)
+
+
 
 
 ## Setup
@@ -27,6 +32,7 @@ Through building this app, I practiced my skill of adding features in MVC patter
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
+
 
 ## Dependencies
 
